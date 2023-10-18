@@ -28,5 +28,3 @@ Now you are ready to start the backend of your application! To start the backend
 
 *If uvicorn has been installed but you're getting a uvicorn not recognized error try adding **python -m**  before the command* (`python -m uvicorn main:app --reload`). To see your endpoint in action, enter http://localhost:8000 in the URL space of your browser. 
 
-# insert screenshot of final result
-
